@@ -15,8 +15,6 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 5. [Visualization](#visualization)
 6. [Conclusion](#conclusion)
 7. [Shiny Application](#shiny-application)
-8. [Installation](#installation)
-9. [Usage](#usage)
 
 
 ## Objective
@@ -46,10 +44,4 @@ In the conclusion, we will encapsulate the findings and insights garnered throug
 ![image info](img/3.png)
 
 ![image info](img/4.png)
-
-## Installation
-This section will detail the steps and requirements necessary for installing and setting up the project in a local environment. It will include information on the necessary software, libraries, and tools needed to run the project successfully.
-
-## Usage
-Here, we provide comprehensive documentation on how to use the project, including examples and tutorials to help users navigate through the project and understand its functionalities effectively.
 
