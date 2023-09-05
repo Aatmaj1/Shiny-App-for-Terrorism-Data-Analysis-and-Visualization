@@ -10,8 +10,9 @@ The Terrorism Data Analysis project aims to provide an in-depth analysis of terr
 4. [Machine Learning Algorithms](#machine-learning-algorithms)
 5. [Visualization](#visualization)
 6. [Conclusion](#conclusion)
-7. [Installation](#installation)
-8. [Usage](#usage)
+7. [Shiny Application](#shiny-application)
+8. [Installation](#installation)
+9. [Usage](#usage)
 
 
 ## Objective
@@ -31,6 +32,16 @@ Visualization forms a critical part of our project, where we employ various tool
 
 ## Conclusion
 In the conclusion, we will encapsulate the findings and insights garnered through the project, emphasizing the value and potential impact it can have in understanding and mitigating the threats of terrorism globally.
+
+## Shiny Application
+
+![image info](img/1.png)
+
+![image info](img/2.png)
+
+![image info](img/3.png)
+
+![image info](img/4.png)
 
 ## Installation
 This section will detail the steps and requirements necessary for installing and setting up the project in a local environment. It will include information on the necessary software, libraries, and tools needed to run the project successfully.
